@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Projectivy Helper</string>
+    <string name="open_usage_access">Open Usage Access</string>
+    <string name="open_notification_access">Open Notification Access</string>
+</resources>
